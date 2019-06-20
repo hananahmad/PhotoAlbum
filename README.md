@@ -1,6 +1,5 @@
 # PhotoAlbum
 
-# Contents
 This repo is updated with Swift 5.0 and compatible with iPhone X:
 
 Simple UIKit components
